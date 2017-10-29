@@ -2,7 +2,7 @@
 Line chart generator on Python
 You should install matplotlib before.
 
-When started:
+When started:  
 First question is how many lines do you need.
 Second - how many points X-axis should have.
 Quantity of X-axis points will be equal to Y-axis points.
