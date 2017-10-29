@@ -1,4 +1,4 @@
-# py_linechart
+# Line chart generator on Python with Matplotlib
 Line chart generator on Python  
 You should install matplotlib before.
 
